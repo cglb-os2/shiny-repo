@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+docs/source/index.rdt
+Lumache has it documentation hosted On Read the Docs
