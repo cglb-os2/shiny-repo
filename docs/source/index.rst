@@ -11,8 +11,9 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
-Lumache has it documentation hosted On Read the Docs
+   This project is under active development. Lumache has its documentation hosted on Read the Docs.
+
+
 Contents
 --------
 
@@ -20,5 +21,5 @@ Contents
 
    usage
    api
-docs/source/index.rdt
-Lumache has it documentation hosted On Read the Docs
+   Docs/source/index.rst
+
